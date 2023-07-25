@@ -1,4 +1,4 @@
-# DIO-Projeto-Banc-rio
+# DIO-Projeto-Bancário
 Criando um pequeno Sistema Bancário com Python e SQL.
 O projeto visa criar uma simples interface gráfica (GUI) de gerenciamento bancário.
 Foi utilizado um database no MySQL, 2 tabelas para armazenar as informações dos clientes e a linguagem Python para criar a interface e os métodos.
