@@ -9,7 +9,7 @@ Foi utilizado um database no MySQL, 2 tabelas para armazenar as informações do
 - Tkinter
 - Mysql.connector
 - Pandas
-#### Alguns prints da interface criada:
+#### Prints da Interface Gráfica: 
 ![image](https://github.com/Caloka/DIO-Projeto-Banc-rio/assets/75040393/5a78fbc3-7dea-4ea1-8390-42fefa638e8e)
 ![image](https://github.com/Caloka/DIO-Projeto-Banc-rio/assets/75040393/d643f07c-58c0-4a29-9e7a-e3472512a369)
 ![image](https://github.com/Caloka/DIO-Projeto-Banc-rio/assets/75040393/6302d05c-6a3c-41dc-8477-72c1a2d1c7dd)
