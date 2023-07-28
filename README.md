@@ -1,10 +1,12 @@
 # DIO-Projeto-Bancário
-<div class="alert alert-danger alertdanger" style="background-color: rgb(85, 21, 105); color: white; margin-top: 20px">
-  <img src="" alt="" style="vertical-align: middle;">
-    <img src="https://drive.google.com/uc?export=view&id=1gSojiQ7n8Qnxfj4tTrdimdrKLEIPLZL3" alt="Img" stryle="vertical-align: middle;">
-    <img src="https://drive.google.com/uc?export=view&id=1Te20DRd59aLGQyUEE6C0que1hTSvzzUR" alt="Img" stryle="vertical-align: middle;">
-    <img src="https://drive.google.com/uc?export=view&id=1UvDPaHfK8R7wnnO0oqMpw2KvVkjWd56y" alt="Img" stryle="vertical-align: middle;">
-</div>
+<div style="display: inline-block;">
+  <div class="alert alert-danger alertdanger" style="background-color: rgb(85, 21, 105); color: white; margin-top: 20px">
+    <a href="https://www.linkedin.com/in/calil-cavalcante-ba0872182/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1WiGMRPYmmeikol1gipOnLyWZMBQ5S640" alt="Img" style="vertical-align: middle;"></a>
+    <a href="https://www.kaggle.com/calilcavalcantemuniz/competitions?tab=active" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1gSojiQ7n8Qnxfj4tTrdimdrKLEIPLZL3" alt="Img" style="vertical-align: middle;"></a>
+    <a href="https://github.com/Caloka" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Te20DRd59aLGQyUEE6C0que1hTSvzzUR" alt="Img" style="vertical-align: middle;"></a>
+    <a href="https://web.dio.me/users/calilcgomes?tab=skills" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1UvDPaHfK8R7wnnO0oqMpw2KvVkjWd56y" alt="Img" style="vertical-align: middle;"></a>
+
+  </div>
 Criando um pequeno Sistema Bancário com Python e SQL.
 O projeto visa criar uma simples interface gráfica (GUI) de gerenciamento bancário.
 Foi utilizado um database no MySQL, 2 tabelas para armazenar as informações dos clientes e a linguagem Python para criar a interface e os métodos.
