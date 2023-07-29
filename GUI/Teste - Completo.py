@@ -12,7 +12,7 @@ class Conexão_MySQL:
       self.__host = 'localhost'
       self.__port = '3306'
       self.__user = 'root'
-      self.__password = 'senhaMysql12'
+      self.__password = '---' # Não será colocado a senha
       self.__database = 'banco'
       self.conec = mysql.connector.connect(host=self.__host,port=self.__port,user=self.__user,
                            password=self.__password,database=self.__database)
